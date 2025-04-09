@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 # requirements.txt
 aiogram==2.15
 python-dotenv==1.1.0
+=======
+python-telegram-bot==13.7
+requests==2.25.1
+>>>>>>> f1056ec (تعديل جديد على البوت)
