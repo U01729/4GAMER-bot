@@ -1,1 +1,4 @@
 
+# requirements.txt
+aiogram==2.15
+python-dotenv==1.1.0
